@@ -7,7 +7,7 @@ import "../styles/master.css"
 import "../styles/master_sm_desktop.css"
 import "../styles/master_mobile.css"
 
-import { StaticImage } from "gatsby-plugin-image"
+
 
 const Contact = ({empty}) => (
  
