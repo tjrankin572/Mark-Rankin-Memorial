@@ -11,15 +11,14 @@ import "../styles/master_mobile.css"
 
 import { Link } from "gatsby"
 
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faBars } from "@fortawesome/free-solid-svg-icons"
+
 
 const Hero = ({heroText, heroCitation, heroBig, heroImage}) => (
     
     <section>
       <div className="mobile-container">
                 <Link to="/" className="logo">In Loving Memory of Mark Rankin</Link>
-                <label for="toggle" class="hamburger"><FontAwesomeIcon icon={faBars}  size="2x"></FontAwesomeIcon></label>
+                <label for="toggle" class="hamburger">Replace</label>
 
                 <input type="checkbox" id="toggle" value="checked"></input>
                 <div class="nav-mobile">
