@@ -1,0 +1,89 @@
+/* Mobile */
+@media only screen and (max-width: 699px) {
+
+  .our-story-background{
+    background: linear-gradient(rgba(153, 163, 162, 0.50),rgba(153,163,162, 0.30)), url('../../images/Dad/DarAndDad.jpg');
+    z-index: 0;
+    height: 350vh;
+    background-size: cover;
+    background-position: center;
+  
+  }
+
+
+  .our-story-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    background-color: rgba(4, 53, 76, 0.507);
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    line-height: 2rem;
+    width: 95vh;
+    overflow: auto;
+
+  }
+
+}
+
+/*Small Desktop*/
+@media only screen and (max-height: 800px) {
+
+
+
+  .our-story-background{
+    background: linear-gradient(rgba(153, 163, 162, 0.50),rgba(153,163,162, 0.30)), url('../../images/Dad/DarAndDad.jpg');
+    z-index: 0;
+    height: 350vh;
+    background-size: cover;
+    background-position: center;
+
+  }
+
+  .our-story-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    background-color: rgba(4, 53, 76, 0.507);
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    line-height: 2rem;
+    width: 95vh;
+    overflow: auto;
+
+  }
+
+}
+
+
+/* Full Desktop */
+@media only screen and (min-height: 901px) {
+
+  .our-story-background {
+    background: linear-gradient(rgba(153, 163, 162, 0.50), rgba(153, 163, 162, 0.30)), url('../../images/Dad/DarAndDad.jpg');
+    background-position: center;
+    z-index: 0;
+    height: 300vh;
+    background-size: cover;
+    overflow: auto;
+  }
+
+  .our-story-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    background-color: rgba(4, 53, 76, 0.507);
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    width: 70vw;
+    line-height: 2rem;
+    overflow: auto;
+  }
+
+}

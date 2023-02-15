@@ -1,0 +1,42 @@
+/*Mobile*/
+
+@media only screen and (max-width: 699px) {
+    .contact {
+        background: linear-gradient(rgba(14, 53, 76,  0.50),rgba(33, 29, 93, 0.3));
+        height: 120vh;
+        background-position: top;
+        background-size: cover;
+        overflow: auto;
+    }
+
+}
+
+/*Small Desktop*/
+
+@media only screen and (max-height: 800px) {
+
+    .contact {
+        background: linear-gradient(rgba(14, 53, 76,  0.50),rgba(33, 29, 93, 0.3));
+        height: 120vh;
+        background-attachment: none;
+        background-position: center;
+        background-size: cover;
+        overflow: auto;
+    }
+}
+
+/* Full Desktop */
+
+@media only screen and (min-height: 901px) {
+
+
+    .contact {
+        background: linear-gradient(rgba(153, 153, 163, 0.5),rgba(33, 29, 93, 0.3)), url('../../images/Dad/collage_RyanTyler.png');
+        height: 120vh;
+
+        background-size: cover;
+        background-position: center;
+        overflow: auto;
+    }
+
+}

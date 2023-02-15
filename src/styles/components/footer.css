@@ -1,0 +1,93 @@
+nav{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    height: 50px;
+    justify-content: space-evenly;
+
+    text-decoration: none;
+    color: whitesmoke !important;
+    
+}
+
+nav > a{
+    color: whitesmoke !important;
+    text-decoration: underline; 
+}
+
+a:hover{
+    color: gray !important;
+}
+
+footer{
+    background: linear-gradient(rgba(153, 153, 163, 0.5),rgba(33, 29, 93, 0.3)), url('../../images/Dad/coverPhoto.jpg');
+    background-position: center;
+    height: 75vh;
+    margin: auto;
+    color: whitesmoke;
+    width: 100%;
+    text-align: center;
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+   
+    align-items: center;
+    justify-content: center;
+
+    
+   
+}
+
+
+a{
+    color: whitesmoke;
+    text-decoration: underline; 
+    font-size: 1.3em;
+}
+
+.back-to-top{
+    text-decoration: underline; 
+    font-size: 1.0em;
+}
+
+
+.icon-happy{
+    height: 5rem;
+    width: 5rem;
+    object-fit: fit;
+    margin: 0 auto;
+    display: block;
+  }
+
+.title{
+    color: rgb(230, 230, 230);
+}
+
+
+@media only screen and (max-height: 800px) {
+
+
+    .icon{
+        height: 0.1rem;
+        width: 0.1rem;
+      
+        margin: 0 auto;
+        display: inline;
+      }   
+
+      .back-to-top{
+        text-decoration: underline; 
+        font-size: 0.8em;
+    }
+
+    .icon-happy{
+        height: 6rem;
+        width: 6rem;
+       
+        margin: 0 auto;
+        display: block;
+      }
+
+
+}

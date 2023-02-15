@@ -1,0 +1,19 @@
+   /* Section Styles */
+    
+   .hero-image{
+    display: flex;
+    background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)), url('../../images/Dad/coverPortait.jpg');
+   
+    flex-direction: column;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    z-index: 0;
+    padding: 70px;
+    margin-bottom: 70px;
+  
+    text-align: center;
+    justify-content: flex-start;
+    align-items: space-around;
+  }

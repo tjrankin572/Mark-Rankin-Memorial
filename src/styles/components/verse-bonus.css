@@ -1,0 +1,77 @@
+@media only screen and (max-width: 699px) {
+
+    .verse-section{
+        background: linear-gradient(rgba(153, 163, 162, 0.50),rgba(153,163,162, 0.30)), url('../../images/Dad/MomAndDad.jpg');
+        height: 150vh;
+        background-size: cover;
+       
+        background-position: center;
+        overflow: auto;
+      }
+    
+    .verse-wrapper{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 20px;
+        background-color: rgba(4, 53, 76, 0.507);
+        text-align: center;
+        color:white;
+        border-radius: 10px;
+        width: 60vh;
+    
+      }
+
+}
+
+@media only screen and (max-height: 800px){
+
+    .verse-section{
+        background: linear-gradient(rgba(153, 163, 162, 0.50),rgba(153,163,162, 0.30)), url('../../images/Dad/MomAndDad.jpg');
+        height: 150vh;
+        background-size: cover;
+       
+        background-position: center;
+        overflow: auto;
+      }
+
+    .verse-wrapper{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 20px;
+        background-color: rgba(4, 53, 76, 0.507);
+        text-align: center;
+        color:white;
+        border-radius: 10px;
+        width: 60vh;
+    
+      }
+    
+}
+
+@media only screen and (min-height: 901px) {
+
+.verse-section{
+    background: linear-gradient(rgba(153, 163, 162, 0.50),rgba(153,163,162, 0.30)), url('../../images/Dad/MomAndDad.jpg');
+    height: 150vh;
+    background-size: cover;
+   
+    background-position: center;
+    overflow: auto;
+  }
+  
+  .verse-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+    background-color: rgba(4, 53, 76, 0.507);
+    text-align: center;
+    color:white;
+    border-radius: 10px;
+    width: 70vw;
+   
+  }
+
+}

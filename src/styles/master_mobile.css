@@ -1,0 +1,122 @@
+@media only screen and (max-width: 699px) {
+    .btn{
+    
+        height: 80%;
+        line-height: 0.9rem;
+    }
+    
+    
+    p{
+        font-size: 1em;
+        font-weight: 500;
+    }
+    
+    h2{
+        font-size: 1.8em;
+    }
+    
+    h3{
+        font-size: 0.8em;
+    }
+    
+    .icon-cross{
+        height: 3.5em;
+        width: 3em;
+      
+        margin: 0 auto;
+        display: block;
+      
+      }
+      
+      .icon{
+        height: 2em;
+        width: 2em;
+      
+        margin: 0 auto;
+        display: block;
+      
+      }
+    
+      
+     
+    /* W
+    
+    /* Wrappers */
+
+    
+      
+    
+    .white-wrapper{
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+        background-color: rgba(4, 53, 76, 0.507);
+        text-align: center;
+        color:white;
+        border-radius: 10px;
+        width: 50vw;
+      
+        justify-content: center;
+        
+      }
+    
+      .wrapper{
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        padding: 20px;
+        background-color: rgba(4, 53, 76, 0.507);
+        text-align: center;
+        color:white;
+        border-radius: 10px;
+        width: 30vh;
+       
+      }
+    
+      
+    
+    /* Section Styles 
+    
+    .hero-location-time{
+      display: flex;
+      background: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)), url('../images/sneak_attack.jpg');
+     
+      flex-direction: column;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 100vh;
+      z-index: 0;
+      padding: 50px;
+      margin-bottom: 50px;
+    
+      text-align: center;
+      justify-content: flex-start;
+      align-items: space-around;
+    }
+    
+    */
+    /*
+    .our-story{
+        background: linear-gradient(rgba(153, 163, 162, 0.50),rgba(153,163,162, 0.30)), url('../images/simp.jpg');
+        z-index: 0;
+        height: 110vh;
+        background-size: cover;
+        background-position: center;
+      
+      }
+      */
+
+      /*
+    
+      */
+
+      /*
+   
+      
+    .SDH_8427{
+        background: linear-gradient(rgba(70, 70, 70, 0.507),rgba(70, 70, 70, 0.507)), url('../images/SDH_8427.jpg');
+      }
+    
+    */
+    }  
