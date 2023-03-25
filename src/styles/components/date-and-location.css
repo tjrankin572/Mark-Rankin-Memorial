@@ -51,7 +51,7 @@
 }
 
 /*****Full Desktop******/
-@media only screen and (min-height: 801px) {
+@media only screen and (min-height: 800px) {
 .when-and-where-wrapper{
   display: flex;
   flex-direction: column;

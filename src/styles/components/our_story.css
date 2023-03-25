@@ -61,7 +61,7 @@
 
 
 /* Full Desktop */
-@media only screen and (min-height: 901px) {
+@media only screen and (min-height: 800px) {
 
   .our-story-background {
     background: linear-gradient(rgba(153, 163, 162, 0.50), rgba(153, 163, 162, 0.30)), url('../../images/Dad/DarAndDad.jpg');
