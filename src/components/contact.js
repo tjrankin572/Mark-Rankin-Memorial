@@ -12,18 +12,14 @@ import "../styles/master_mobile.css"
 const Contact = ({empty}) => (
  
     <section className="contact section-alignment" id="contact">
-      
         <div className="white-wrapper">
             <h2><b>Contact</b></h2>
             <p>Let me know if you run into any issues or have any questions!</p>
 
             <h3>Tyler Rankin</h3>
             <p><b>Text:</b> (208) 290-1121</p> 
-
         </div>
-
     </section>
-
 )
 
 

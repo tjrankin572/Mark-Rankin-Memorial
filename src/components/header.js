@@ -8,14 +8,11 @@ import { Link } from "gatsby"
 
 const Header = ({ siteTitle }) => (
   <header>
-    <div
-      
-    >
+    <div>
       <h1>
         <Link
           to="/"
           style={{
-           
             textDecoration: `none`,
           }}
 
@@ -33,10 +30,8 @@ const Header = ({ siteTitle }) => (
                 Mission/Partner</Link>
           <Link to="/bio" >
                 About Us</Link>
-    </nav>
-       
+      </nav>
     </div>
-    
   </header>
 )
 

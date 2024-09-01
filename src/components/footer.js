@@ -11,25 +11,13 @@ import { StaticImage } from "gatsby-plugin-image"
 
 const Footer = () => (
   <footer>
-
-
     <br></br>
     <p>Thanks for stopping by!</p>
     <p>We're looking forward to seeing you!</p>
     <StaticImage src="../images/icons/vector_smile_whitefill.png" className="icon-happy" objectFit="fill" width={100}/>
     <br></br>
     <Link to="#home" className="back-to-top">Back to Top</Link>
-
-
   </footer>
 )
-/*
-Header.propTypes = {
-  siteTitle: PropTypes.string,
-}
 
-Header.defaultProps = {
-  siteTitle: ``,
-}
-*/
 export default Footer

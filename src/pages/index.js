@@ -15,23 +15,16 @@ import Verse from "../components/verse-bonus"
 const IndexPage = () => {
   return (
     
-      <Layout>
+    <Layout>
       <Seo title="Mark Rankin" />
-
-    
       <section id="home">
         <Hero heroImage="hero-image"  heroText=""  />
       </section>
-
       <Story storyIcon='"../images/icons/heart_vector.png"' />
-
       <DateAndLocation />
       <RSVP />
       <Contact />
       <Verse />
-
-    
-      
     </Layout>
   )
 }

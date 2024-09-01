@@ -1,54 +1,24 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
 
-## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
+##  Purpose
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+This website was built as a memento to my Dad, Mark Rankin, who passed away on September 13th, 2022.
+Addtionally, it served users by providing clear insutrctions on where & when the memorial serivce would occur.
+The passing of my Dad was sudden and incredibly tragic. 
+I am incredibly grateful for the positive light he was on me, my family and the many people he encouraged. 
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+## Under the Hood and Why
+Gatsby is the main tool of choice when building this website.
+Considering I had built two websites preivously using Gatsby, it served my desire to ship this project quickly.
 
-2.  **Start developing.**
+Gatsby has acted as a practical introduction for me in terms of exactly who React Apps function on a high-level.
+While I wouldn't say goodbye to Gatsby, this will be my last one for awhile as I simply desire to utilize React more directly.
 
-    Navigate into your new site’s directory and start it up.
+There was no significant techincal growth I experienced from developing this website, but it never had to be.
+I'm proud of this website simply for sake of self-expression. Coding is fantastic on its own, but can also be cathartic when combined with purpose.
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+## Future of this website.
+I may come back to introduce potential enhancements for the websites.
 
-3.  **Open the code and start customizing!**
-
-    Your site is now running at http://localhost:8000!
-
-    Edit `src/pages/index.js` to see your site update in real-time!
-
-4.  **Learn more**
-
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+1. Include a page that has several posts showing stories from people who have interacted with my Dad. (Could be from a wordpress site)
+2. Improve some of the stylings of the site.
