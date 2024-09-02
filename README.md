@@ -7,6 +7,8 @@ Addtionally, it served users by providing clear insutrctions on where & when the
 The passing of my Dad was sudden and incredibly tragic. 
 I am incredibly grateful for the positive light he was on me, my family and the many people he encouraged. 
 
+<a href="https://markrankinmemorial.com/">MarkRankinMemorial.com</a>
+
 ## Under the Hood and Why
 Gatsby is the main tool of choice when building this website.
 Considering I had built two websites preivously using Gatsby, it served my desire to ship this project quickly.
